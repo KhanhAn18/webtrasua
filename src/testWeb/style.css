@@ -1,0 +1,70 @@
+.order-confirmation {
+    max-width: 800px;
+    margin: auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .order-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .shipping, .order-summary {
+    width: 48%;
+  }
+  
+  .order-summary {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  .order-items .item {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .total p {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .final-amount {
+    font-weight: bold;
+    color: #e67e22;
+  }
+  
+  .order-button, .clear-button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .order-button {
+    background-color: #e67e22;
+    color: white;
+  }
+  
+  .clear-button {
+    background-color: #e74c3c;
+    color: white;
+  }
+  
+  .payment-methods label {
+    display: block;
+    margin: 5px 0;
+  }
+  
+  .terms {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .terms span a {
+    color: #e67e22;
+    text-decoration: none;
+  }

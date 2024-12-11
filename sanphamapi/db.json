@@ -1,0 +1,724 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Hồng Trà Chanh",
+      "image": "menuDrinks/24.png",
+      "description": "Trà nồng nàn, chanh tươi mát, thanh nhẹ",
+      "price": 40,
+      "quantity": 2,
+      "like": 20,
+      "promotionType": "promotion",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Hồng Trà Mật Ong",
+      "image": "menuDrinks/2.png",
+      "description": "Hồng Trà truyền thống đậm đà, kết hợp tinh tế",
+      "price": 45,
+      "quantity": 2,
+      "like": 20,
+      "promotionType": "promotion",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 54
+        },
+        {
+          "label": "M",
+          "price": 100
+        },
+        {
+          "label": "L",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Hồng Trà Teaccino",
+      "image": "menuDrinks/3.png",
+      "description": "Kết hợp tinh tế hương thơm béo ngậy của lớp kem sữa",
+      "price": 50,
+      "quantity": 3,
+      "like": 20,
+      "promotionType": "promotion",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 8
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Lục Trà Mật Ong",
+      "image": "menuDrinks/4.png",
+      "description": "Được pha chế từ trà xanh hoa lài",
+      "price": 50,
+      "quantity": 4,
+      "like": 20,
+      "promotionType": "promotion",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Socola Teaccino",
+      "image": "menuDrinks/5.png",
+      "description": "Đắng nồng nàn, ngọt ma mị của Socola",
+      "price": 55,
+      "quantity": 5,
+      "like": 20,
+      "promotionType": "promotion",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Sữa Chua Chanh Ổi",
+      "image": "menuDrinks/6.png",
+      "description": "Thức uống độc đáo, mới lạ từ Yakult",
+      "price": 60,
+      "quantity": 6,
+      "like": 20,
+      "promotionType": "promotion",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Trà Hải Thần",
+      "image": "menuDrinks/7.png",
+      "description": "Hương vị độc đáo khác biệt với các trà khác.",
+      "price": 40,
+      "quantity": 7,
+      "like": 20,
+      "promotionType": "promotion",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Trà Sữa Hải Thần",
+      "image": "menuDrinks/8.png",
+      "description": "Hương dịu nhẹ của mật ong tự nhiên",
+      "price": 40,
+      "quantity": 8,
+      "like": 20,
+      "promotionType": "promotion",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Trà Đào Cam Sả",
+      "image": "menuDrinks/9.png",
+      "description": "Hương thơm cam sả hòa quyện vị đào thanh mát",
+      "price": 50,
+      "quantity": 3,
+      "like": 20,
+      "promotionType": "bestseller",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Trà Vải Lựu Đỏ",
+      "image": "menuDrinks/10.png",
+      "description": "Ngọt thanh của vải, chua nhẹ của lựu đỏ",
+      "price": 55,
+      "quantity": 5,
+      "like": 20,
+      "promotionType": "bestseller",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Trà Dâu Tây",
+      "image": "menuDrinks/11.png",
+      "description": "Dâu tươi ngon, mang hương vị đặc trưng",
+      "price": 60,
+      "quantity": 4,
+      "like": 20,
+      "promotionType": "bestseller",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Hồng Trà Sữa",
+      "image": "menuDrinks/12.png",
+      "description": "Vị ngọt thanh của trà sữa truyền thống",
+      "price": 40,
+      "quantity": 2,
+      "like": 20,
+      "promotionType": "bestseller",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Trà Sữa Trân Châu Đen",
+      "image": "menuDrinks/13.png",
+      "description": "Trà sữa thơm ngon với topping trân châu truyền thống",
+      "price": 45,
+      "quantity": 3,
+      "like": 20,
+      "promotionType": "featured",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Trà Sữa Matcha",
+      "image": "menuDrinks/14.png",
+      "description": "Hương vị trà xanh Nhật Bản tinh tế",
+      "price": 55,
+      "quantity": 4,
+      "like": 20,
+      "promotionType": "featured",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Trà Sữa Socola",
+      "image": "menuDrinks/15.png",
+      "description": "Hòa quyện giữa trà sữa và vị Socola thơm ngon",
+      "price": 60,
+      "quantity": 5,
+      "like": 20,
+      "promotionType": "featured",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Trà Sữa Thái Xanh",
+      "image": "menuDrinks/16.png",
+      "description": "Đậm đà trà xanh Thái Lan, ngọt thanh",
+      "price": 50,
+      "quantity": 4,
+      "like": 20,
+      "promotionType": "featured",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Trà Sữa Khoai Môn",
+      "image": "menuDrinks/17.png",
+      "description": "Thơm ngọt vị khoai môn, đậm đà khó quên",
+      "price": 55,
+      "quantity": 3,
+      "like": 20,
+      "promotionType": "featured",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Cà Phê Đen Đá",
+      "image": "menuDrinks/18.png",
+      "description": "Cà phê Việt Nam đậm đà, nguyên chất",
+      "price": 30,
+      "quantity": 4,
+      "like": 20,
+      "promotionType": "none",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 5
+        },
+        {
+          "label": "L",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Cà Phê Sữa Đá",
+      "image": "menuDrinks/19.png",
+      "description": "Cà phê sữa đậm đà vị ngọt ngào khó quên",
+      "price": 35,
+      "quantity": 5,
+      "like": 20,
+      "promotionType": "bestseller",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 5
+        },
+        {
+          "label": "L",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Bạc Sỉu",
+      "image": "menuDrinks/20.png",
+      "description": "Sữa pha cà phê, vị thanh nhẹ và ngọt béo",
+      "price": 35,
+      "quantity": 4,
+      "like": 20,
+      "promotionType": "featured",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 5
+        },
+        {
+          "label": "L",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Cacao Đá Xay",
+      "image": "menuDrinks/21.png",
+      "description": "Cacao nguyên chất, mát lạnh sảng khoái",
+      "price": 50,
+      "quantity": 3,
+      "like": 20,
+      "promotionType": "bestseller",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Matcha Đá Xay",
+      "image": "menuDrinks/22.png",
+      "description": "Trà xanh Nhật Bản, đá xay mát lạnh",
+      "price": 55,
+      "quantity": 4,
+      "like": 20,
+      "promotionType": "featured",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Cookie Đá Xay",
+      "image": "menuDrinks/23.png",
+      "description": "Cookie nghiền nhuyễn, thơm ngon béo ngậy",
+      "price": 60,
+      "quantity": 5,
+      "like": 20,
+      "promotionType": "none",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Sinh Tố Dâu",
+      "image": "menuDrinks/24.png",
+      "description": "Sinh tố từ dâu tươi ngon, bổ dưỡng",
+      "price": 50,
+      "quantity": 4,
+      "like": 20,
+      "promotionType": "none",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Sinh Tố Bơ",
+      "image": "menuDrinks/25.png",
+      "description": "Bơ tươi xay nhuyễn, hương vị béo ngậy",
+      "price": 55,
+      "quantity": 5,
+      "like": 20,
+      "promotionType": "bestseller",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Trà Đào Cam Sả",
+      "image": "menuDrinks/26.png",
+      "description": "Trà đào kết hợp với cam sả, hương vị thơm mát",
+      "price": 45,
+      "quantity": 4,
+      "like": 20,
+      "promotionType": "none",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 5
+        },
+        {
+          "label": "L",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Trà Xanh Matcha",
+      "image": "menuDrinks/27.png",
+      "description": "Trà xanh Nhật Bản kết hợp với matcha thơm ngon",
+      "price": 50,
+      "quantity": 4,
+      "like": 20,
+      "promotionType": "featured",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Đá nhỏ",
+      "image": "menuDrinks/28.png",
+      "description": "Tặng kèm",
+      "price": 10,
+      "quantity": 5,
+      "like": 20,
+      "promotionType": "bestseller",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Đường ngọt",
+      "image": "menuDrinks/29.png",
+      "description": "Trà đen nguyên chất, đậm đà và hương thơm",
+      "price": 30,
+      "quantity": 3,
+      "like": 20,
+      "promotionType": "none",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 5
+        },
+        {
+          "label": "L",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Trà Sữa Hương Dâu",
+      "image": "menuDrinks/10.png",
+      "description": "Trà sữa kết hợp vị dâu tươi ngọt ngào",
+      "price": 55,
+      "quantity": 4,
+      "like": 20,
+      "promotionType": "none",
+      "sizes": [
+        {
+          "label": "S",
+          "price": 0
+        },
+        {
+          "label": "M",
+          "price": 10
+        },
+        {
+          "label": "L",
+          "price": 15
+        }
+      ]
+    }
+  ]
+}
